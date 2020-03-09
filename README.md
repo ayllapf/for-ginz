@@ -8,7 +8,7 @@ int main()
 	double x, y,
 	size=10;
 	char ch=3;
-	string message(" S dnem rozhdeniya, Ginzy, ya lyublyu tebya! ");
+	string message(" с днем рождения, Ginzy, я тебя люблю! ");
 	int print_line = 4;
 	
 	if(message.length() % 2 != 0)
